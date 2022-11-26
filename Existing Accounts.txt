@@ -1,0 +1,13 @@
+Accounts Registered:
+
+Buyer
+Email: buyer@gmail.com
+Pw: buyer123
+
+Seller
+Email: seller@gmail.com
+Pw: seller
+
+DA Owner:
+Email: daowner@gmail.com
+Pw: daowner
